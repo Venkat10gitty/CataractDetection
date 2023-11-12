@@ -11,3 +11,4 @@ plotly
 opencv-python
 opencv-python-headless
 python3-opencv
+opencv-contrib-python
