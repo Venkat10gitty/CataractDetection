@@ -9,3 +9,5 @@ joblib
 pillow
 plotly
 opencv-python
+opencv-python-headless
+python3-opencv
