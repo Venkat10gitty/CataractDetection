@@ -7,3 +7,4 @@ scikit-image
 streamlit
 joblib
 pillow
+plotly
