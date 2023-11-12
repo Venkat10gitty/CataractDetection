@@ -8,4 +8,4 @@ streamlit
 joblib
 pillow
 plotly
-cv2
+opencv-python
