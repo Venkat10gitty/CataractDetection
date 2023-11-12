@@ -8,3 +8,4 @@ streamlit
 joblib
 pillow
 plotly
+cv2
