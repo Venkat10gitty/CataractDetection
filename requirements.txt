@@ -2,7 +2,7 @@ numpy
 pandas
 opencv-python==4.5.5.64
 matplotlib
-scikit-learn
+scikit-learn==1.2.2
 scikit-image
 streamlit
 joblib
