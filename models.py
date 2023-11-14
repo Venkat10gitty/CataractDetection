@@ -67,9 +67,6 @@ def extract(path):
     return pd.DataFrame(np.transpose(data_eye), columns=indextable[:-1])
 
 
-"""
-Return predicted class with its probability
-"""
 
 model = joblib.load("model.pkl")
 
